@@ -3,4 +3,6 @@ Artificial Intelligence
 Hydrebad
 Bengaluru
 
-Mumbai,Delhi,Hydrebad
+Mumbai,Delhi
+
+Something
